@@ -1,7 +1,7 @@
 # Seleksi Grand Bootcamp Arkademy 2
 <p>Bismillah..Semoga dilirik dan bisa lolos seleksi..Amiin :)</p>
 <p>Mohon maaf untuk kesalahannya ka, masih dalam tahap belajar hehe<br>
-Soal nomor 2 paling susah haha </p>
+Soal nomor 2 paling susah jadi saya buat yang pake regex sama bawaan php ka </p>
 <p>Source code dapat dijalankan dengan menggunakan web server (XAMPP, dll)</p>
 
 # Author
