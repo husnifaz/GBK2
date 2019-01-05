@@ -1,0 +1,2 @@
+select categories.id, categories.category_name, products.name as products 
+from categories left join products on (categories.id = products.category_id)
